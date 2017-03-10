@@ -9,7 +9,7 @@
 if ( ! function_exists( 'apiapi_register_storage_session' ) ) {
 
 	/**
-	 * Registers the storage using PHP sessions.
+	 * Registers the storage using [...].
 	 *
 	 * It is stored in a global if the API-API has not yet been loaded.
 	 *
