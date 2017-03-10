@@ -14,7 +14,7 @@ use APIAPI\Core\Exception;
 if ( ! class_exists( 'APIAPI\Storage_Session\Storage_Session' ) ) {
 
 	/**
-	 * Storage implementation using [...].
+	 * Storage implementation using PHP sessions.
 	 *
 	 * @since 1.0.0
 	 */
