@@ -1,12 +1,12 @@
 {
-  "name": "api-api/storage-session",
-  "description": "Storage implementation using PHP sessions.",
+  "name": "api-api/storage-dummy-name",
+  "description": "Storage implementation using [...].",
   "version": "1.0.0",
   "license": "GPL-3.0",
   "keywords": [
     "api-api",
     "storage",
-    "storage-session"
+    "storage-dummy-name"
   ],
   "homepage": "http://awesome.ug",
   "authors": [
@@ -24,17 +24,17 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/api-api/storage-session/issues"
+    "issues": "https://github.com/api-api/storage-dummy-name/issues"
   },
   "config": {
     "preferred-install": "dist"
   },
   "autoload": {
     "psr-4": {
-      "APIAPI\\Storage_Session\\": "src/Storage_Session/"
+      "APIAPI\\Storage_Dummy_Name\\": "src/Storage_Dummy_Name/"
     },
     "files": [
-      "src/storage-session.php"
+      "src/storage-dummy-name.php"
     ]
   },
   "require": {
