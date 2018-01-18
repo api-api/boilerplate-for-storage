@@ -2,7 +2,7 @@
 /**
  * Storage loader.
  *
- * @package APIAPIStorageDummyName
+ * @package APIAPI\Storage_Dummy_Name
  * @since 1.0.0
  */
 
